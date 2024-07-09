@@ -1,0 +1,8 @@
+[package]
+name = "rust-lockey"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lockclient = {path = "lockclient"}
+lockservice = {path = "lockservice"}

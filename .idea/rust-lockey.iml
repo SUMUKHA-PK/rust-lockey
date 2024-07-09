@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/rust-lockey/lockclient/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-lockey/lockservice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-lockey/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-lockey/src/lockclient/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-lockey/lockclient/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-lockey/lockservice/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-lockey/src/lockclient/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-lockey/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
